@@ -1,0 +1,5 @@
+- 멀티 프로세스와 멀티 쓰레드 비교
+- 기본 타입과 참조 타입 비교 with 메모리
+- 도커로 redis 설치 시 유의사항
+- nginx와 docker 연동하기
+- thymeleaf error
